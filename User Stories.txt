@@ -1,0 +1,157 @@
+User Stories:
+Software Requirement Breakdown Structure:
+Initiative -> Epics -> User Story
+
+Initiative : collection of epics , drive towards common goal 
+Epics : large bodies of work broken to smaller bodies work called user story 
+User Story : Request from the end user 
+
+
+What is User Story?
+->A user story is the smallest unit of work in an agile framework
+->It is a short requirement written from the perspective of an end user 
+->written in non -tech language 
+->Clearly define the functionality of end user expecting
+
+
+User Story Format :
+End User: User Type/Role
+Goal: Functionality end user expecting 
+Benefits: benefits the end user gets from the developed functionality 
+
+Acceptance Criteria:
+->set of conditions a product must meet to be accepted by a user,customer or other system.
+->Each user story will have a acceptance criteria
+->It is very useful to development team to get what user is expecting 
+->It is most important to QA(Testers )team because they test the functionality (User Story) based on acceptance criteria.
+->It will be written before the developement start.
+->Each user story has correct and incorrect criteria of acceptance criteria.
+->written by business analyst
+
+3C :
+Card ->Provides a simple statement
+Conversation ->Creativity and Collaboration
+Confirmation ->Tests the Acceptance Criteria are met
+
+
+INVESTing in User Story:
+
+Independent - Stories will not dependent on another stories ,So it can be developed and delieverd.
+Negotiate - What?(Not give the solution but the needs) - Stories should not be written to such a level of detail that they become overly restrictive
+                                                         and prevent your team from arriving at the best solution themselves.
+Valuable - Why? - User Story should add value to the product.
+Estimatable - Story should small enough to discuss and divide into task.
+Small - the user story will be small enough to understand to complete in a single spring.
+Testable - Acceptance Criteria.
+
+
+Product Owner:
+->Product Owner is one of the member of Scrum Team
+->Product Owner responsible for the maximizing value of the product with the team.
+->Act as communication between the requirement resources and developement team.
+
+
+Roles and Responsibility of Product Owner:
+1.To Create:
+->Product Vision - Future state of the product developement and deployment.
+->Product Strategy - To plan the Product Vision.
+->Product RoadMap - To highlevel visual time of how the product will develope it helps to plan and execute the product on time.
+
+2.Managing the Product Backlogs:
+Breakdown product into -> Epics -> User Stories -> add the product backlogs (list of work to do by the developement team) -> prioritize the product backlogs
+-> Check all the user story has requirement (like scope,pre-condition,AC,UI/UX Links)
+
+3.Overseeing the developement stages:
+->Release Planning - Plan the product sprint releasing schedule
+->Refinement - explain the requirements to the team
+->Sprint planning - to release each sprint
+->Daily stands Up - clear the queries of team and get progress
+->Accept/Reject the Story - Check the Story has all requirements and accept or reject the Story
+->Sprint Review - held after completion of every sprint to get feedback
+->Sprint Retrospective - To know what to be develope in this sprint.
+
+
+Scrum:
+It is a framework within which people can address complex adaptive problem while productivity and creativity of delivering product is at 
+highest possible values.
+
+Features of Scrum:
+->Scrum is light-weighted framework
+->Scrum emphasizes self-organization
+->Scrum is simple to understand
+->Scrum framework help the team to work together
+
+
+
+Product Backlog:
+List of task has to be done to get the product.
+
+who Assigns:Customer
+            Product Owner
+            Client facing internal teams 
+
+Benefits: ->List - Big list to store all of the task,request,feedback sets in one place helps to analyze.
+          ->Placeholder - if any changes refered by the client or internal team ,that changes places in placeholder.
+          ->Transperant & Collaborate - tells the internal team these are the backlogs planning for .It should more collaborative.
+          ->Relative Importance - based on the importance prioritize the backlog
+          ->Track Progress 
+
+
+Scrum Master:
+The Scrum Master is responsible for ensuring that the Scrum framework is understood and followed by the team.
+They facilitate Scrum events,remove impediments and coach the team.
+
+
+Daily Scrum:
+(Daily Standup),this is a short daily meeting where team members synchronize their activities,discuss progress,
+            and plan for the day.
+
+Increment:
+At the end of each sprint,the team delivers a potentially shippable product increment,which is a concrete step toward the product's vision.
+
+Spring Retrospective : 
+This is a meeting held at the end of each sprint where the team reflects on their process ,identifies what went well 
+and what could be improved and creates a plan for implementing those improvements in the next sprint.
+
+sprint backlog: 
+List of task identified by the Scrum
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------
+Example: Management System
+
+Title:Student login page       
+User Story :
+<As a > Student
+<I want> to have a login functionality
+<So that> I can successfully logged in and use Student Module
+
+Acceptance Criteria:
+Correct Criteria:
+<Given>[how things begin]  I am on Login Page 
+<When>[action taken] I provide Valid Username and Password ana click on Sign in 
+<Then>[outcoming of taking action] I will login successfully 
+
+Incorrect Criteria:
+<Given>[how things begin]  I am on Login Page 
+<When>[action taken] I provide In-Valid Username and Password ana click on Sign in 
+<Then>[outcoming of taking action] I will get an error message"Please provide valid credentials.
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+  https://www.youtube.com/watch?v=iCx0WYcv2_Y&t=234s - Invest
+  https://www.youtube.com/watch?v=j5T4oS3U5W0&list=PLtdgW7favH5FxfhD4j7FKb40hlz3TPc59&index=15 - user story
+  https://www.youtube.com/watch?v=xbukAQS_vpo&list=PLtdgW7favH5FxfhD4j7FKb40hlz3TPc59&index=12 - Product Owner
+  
+
