@@ -1,0 +1,27 @@
+API - Application Programming Interface 
+client -> API -> Server
+
+API -> is a software intermediate that allows communication between two each other application.
+REST API -> Software intermediate follows the REST architectural style
+         -> it allows formats like http,Json,CRUD.
+
+Http Request -> Get - retrieve the data.
+                Post - create new resources.
+                Put - replace an existing resource with a updated version.
+                Delete - delete the data.
+
+Ex: Weather App -> Api -> Server
+
+Real-time Example : Gpay -> Api -> Banks
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=Qz1--32QBl8
+
+
+
+
+
